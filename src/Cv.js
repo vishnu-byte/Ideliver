@@ -16,7 +16,7 @@ class Cv extends Component {
             className="cvdp"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT-CfqEPHkRrMbd6MBrtHMD8oly7tuO3GxFZWheZbevvBUbfjL"
           ></img>
-          <h4 className="newhead">vsh</h4>
+          <h4 className="newhead">John Doe]</h4>
           <h4 className="subhead">Wall StNew york, NY, USA</h4>
           <h4 className="subhead">Certificate</h4>
           <h4 className="subhead">Driving license</h4>

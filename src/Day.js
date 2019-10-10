@@ -13,7 +13,7 @@ class Day extends Component {
       <div>
         <div className="days">
           <h4 className="dayavail">{this.props.day}</h4>
-          <button className="dayedit">Edit</button>
+          <button className="dayedit">Edit me</button>
         </div>
         <p className="daytime">{this.props.time}</p>
       </div>
